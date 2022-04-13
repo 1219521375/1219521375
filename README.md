@@ -27,7 +27,7 @@ I'm a postgraduate at CS Department, HangZhou Dianzi University.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=1219521375&show_icons=true&theme=flag-india&hide_border=true&count_private=true&hide=contribs" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=1219521375&show_icons=true&theme=flag-india&hide_border=true&count_private=true" />
 
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
