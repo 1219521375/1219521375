@@ -19,14 +19,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning  `multimodal learning` and `java`.  
 - 😄 I love astronomy, photography，and football.  
+- 📫 How to reach me: 1219521375@qq.com;
 
 <br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### DeepLearning  
 <div align="center">  
@@ -35,8 +32,6 @@ Here are some ideas to get you started:
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Development  
 <div align="center">  
@@ -52,8 +47,6 @@ Here are some ideas to get you started:
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
@@ -63,7 +56,7 @@ Here are some ideas to get you started:
 
 </td></tr></table>  
 
-<br/>  
+<!-- <br/>  
 
 ## Connect with me  
 <a href="https://github.com/1219521375" target="_blank">
@@ -75,7 +68,7 @@ Here are some ideas to get you started:
 <a href="https://dev.to/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
-<br/>  
+<br/>   -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=1219521375&show_icons=true&theme=flag-india&hide_border=true&count_private=true" />
 
