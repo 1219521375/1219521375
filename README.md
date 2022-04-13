@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 1219521375@qq.com;
 
 ## My Skill Set  
-<br/>  
 <table><tr><td valign="top" width="33%">
 
 ### DeepLearning  
@@ -56,7 +55,6 @@ Here are some ideas to get you started:
 
 </td></tr></table>  
 
-<br/>  
 <!-- 
 ## Connect with me  
 <a href="https://github.com/1219521375" target="_blank">
