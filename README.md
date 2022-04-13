@@ -75,29 +75,6 @@ Here are some ideas to get you started:
 <a href="https://dev.to/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=1219521375&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=1219521375&show_icons=true&theme=flag-india&hide_border=true&count_private=true" />
@@ -106,5 +83,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1219521375&hide=javascript,html,css,php,jupyter%20notebook&hide_border=true&layout=compact" />
 </a>
-
-![Visitor Count](https://profile-counter.glitch.me/1219521375/count.svg)
+  <p align="right"> 
+  <b>visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/1219521375/count.svg" />
+  </p>
