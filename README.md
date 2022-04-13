@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 
 </td></tr></table>  
 
-<!-- <br/>  
-
+<br/>  
+<!-- 
 ## Connect with me  
 <a href="https://github.com/1219521375" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
