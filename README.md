@@ -27,7 +27,7 @@ I'm a postgraduate at CS Department, HangZhou Dianzi University.
  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
 <div align="center">
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1219521375&hide=javascript,html,css,jupyternotebook&hide_border=true&layout=compact" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1219521375&hide=javascript,html,css,jupyter%20notebook&hide_border=true&layout=compact" />
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=1219521375&show_icons=true&theme=flag-india&hide_border=true&count_private=true&hide=contribs" />
 </div>
 
