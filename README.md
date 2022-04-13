@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <a href="https://dev.to/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
-
+<br/>  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=1219521375&show_icons=true&theme=flag-india&hide_border=true&count_private=true" />
 
